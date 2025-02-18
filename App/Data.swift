@@ -18,7 +18,7 @@ struct Info {
 let information = Info(
     image: "Placeholder",
     name: "Owais Khan",
-    story: "A story can be about anything you can dream up. There are no right answers, there is no one else.\n\nNeed some inspiration?\n• 🐶🐱🛶️🎭🎤🎧🎸\n• 🏄‍♀️🚵‍♀️🚴‍♀️⛵️🥾🏂⛷📚\n• ✍️🥖☕️🏋️‍♂️🚲🧗‍♀️ ",
+    story: "August 2021, LA became my chaotic new home, CSUN my CS path. Freshman year was foundational but lacked spark. \n\nThen, sophomore year, Fall 2022 - Intro to Mobile Development. Initially, just another class. But SwiftUI changed everything. Code became visual, interactive. One Tuesday in October, battling a weather app layout, it clicked. Building something functional and beautiful on screen was exhilarating.\n\nCS transformed from abstract logic to a creative tool.  Suddenly, late nights coding were fueled by passion, not just obligation.  May 2025 graduation approaches. Nervousness replaced by focused excitement. CSUN, LA – they unexpectedly led me to iOS development.\n\n• ✍️🥖☕️🏋️‍♂️🚲🧗‍♀️ ",
     hobbies: ["bicycle", "ticket.fill", "book.fill"],
     foods: ["🥐", "🌮", "🍣"],
     colors: [Color.blue, Color.purple, Color.pink],
